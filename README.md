@@ -86,7 +86,4 @@ This project demonstrates practical use of **Object-Oriented Programming (OOP)**
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.  
-Feel free to use and modify for learning or personal purposes.
